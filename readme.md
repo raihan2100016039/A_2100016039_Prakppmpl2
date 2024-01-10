@@ -1,7 +1,7 @@
 # Tugas Praktikum
-Nama : Raihan Afif Ihsan Mahendra
-Kelas Prak : A
-NIM : 2100016039
+- Nama : Raihan Afif Ihsan Mahendra
+- Kelas Prak : A
+- NIM : 2100016039
 ## Deskripsi Project
 
 - terdapat 2 folder yaitu `src` dan `test`
